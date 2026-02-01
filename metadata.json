@@ -1,0 +1,7 @@
+{
+  "name": "FashionAI Outfit Swapper",
+  "description": "An AI-powered web application that allows users to upload a photo and change the character's outfit using generative AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
